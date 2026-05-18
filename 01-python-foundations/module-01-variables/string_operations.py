@@ -13,7 +13,3 @@ print(sentence.strip())
 print(sentence.replace("world", "Python"))
 print(len(sentence))
 
-word = "Python"
-print(word[0])
-print(word[-1])
-print(word[0:3])
